@@ -3,6 +3,7 @@ This project is a simple Tic-Tac-Toe game where two users can choose
 symbols to represent their characters and duel until there is a winner or
 a draw is detected
     """
+__author__ = "Mark Schwartz"
 # Mark Schwartz
 # This is a simple Tic Tac Toe game. I draw the board with a dictionary.
 # I keep track of which letter's turn
